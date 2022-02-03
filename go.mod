@@ -5,7 +5,6 @@ go 1.16
 require (
 	github.com/golang/glog v1.0.0
 	github.com/openconfig/gnoi v0.0.0-20220131192435-7dd3a95a4f1e
-	//github.com/openconfig/gnoi/factory_reset v0.0.0-00010101000000-000000000000
 	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd // indirect
 	golang.org/x/sys v0.0.0-20220128215802-99c3d69c2c27 // indirect
 	google.golang.org/genproto v0.0.0-20220203182621-f4ae394cde3f // indirect
